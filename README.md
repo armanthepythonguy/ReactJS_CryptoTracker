@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React JS Based Crpto Tracker Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Used CoinGecko API for data
+
+<img src="https://cdn.discordapp.com/attachments/896040489596370996/933825151982776410/unknown.png" />
 
 ## Available Scripts
 
